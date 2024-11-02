@@ -1,15 +1,14 @@
-<h1>Dynamic Pose</h1>
+<h1>Human Pose Detection and Correction</h1>
 </br>
 <p>This is a website where you can learn about the poses of <b>SuryaNamaskar</b></p>
 </br>
 <h3>This project is done by:</h3>
-<b>L.Shravika</b>
+<b>M. Tejaswini</b>
 </br>
-<b>P.Rakshitha</b>
+<b>V. Meghana</b>
 </br>
-<b>P.Harshitha</b>
+<b>K. Maneesh</b>
 </br>
-<b>P.Satwik</b>
 
 
 </br>
